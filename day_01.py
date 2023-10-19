@@ -15,3 +15,4 @@ with open('input.txt', 'r') as f: #reading file
     #calculate every module
     
 
+deneme2'de değişiklik
