@@ -1171,6 +1171,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.19-10.14.07:718][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.10.19-10.14.07:751][  0]LogContentStreaming: Texture pool size now 1000 MB
 <<<<<<< HEAD
+<<<<<<< HEAD
 [2023.10.19-10.32.18:149][900]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.10.19-10.32.19:347][ 41]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
 [2023.10.19-10.32.19:443][ 41]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
@@ -1663,5 +1664,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.19-11.19.23:567][235]LogD3D11RHI: CleanupD3DDevice
 [2023.10.19-11.19.23:568][235]LogExit: Exiting.
 [2023.10.19-11.19.23:574][235]Log file closed, 10/19/23 14:19:23
+=======
+>>>>>>> parent of b25dc97 (player bp'e eklendi)
 =======
 >>>>>>> parent of b25dc97 (player bp'e eklendi)
